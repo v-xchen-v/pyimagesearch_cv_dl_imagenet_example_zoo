@@ -28,7 +28,7 @@ class SimpleDatasetLoader:
             
             # loop over the preprocessors and apply each to the image
             for p in self.preprocessors:
-                image = p.preprocess
+                image = p.preprocess(image)
                 
             # treat our processed image as a "feature vector" by updating the data list followed by the labels
             data.append(image)
