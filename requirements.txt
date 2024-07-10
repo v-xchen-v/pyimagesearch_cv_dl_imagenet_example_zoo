@@ -1,4 +1,5 @@
-opencv-python
+opencv-python-headless
 imutils
 scikit-learn
 argparse
+opencv_jupyter_ui
