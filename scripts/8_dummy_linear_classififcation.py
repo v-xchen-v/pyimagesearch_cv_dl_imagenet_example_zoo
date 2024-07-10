@@ -1,6 +1,7 @@
 """
-python scripts/8_linear_image_classification.py --seed 1
-python scripts/8_linear_image_classification.py --seed 2
+python scripts/8_dummy_linear_image_classification.py --seed 1
+python scripts/8_dummy_linear_image_classification.py --seed 2
+result is also totally random by the seed
 """
 
 import numpy as np
