@@ -2,3 +2,11 @@
 
 ## Examples
 - first image classifier with K-NN
+
+## Setup Dev
+```
+apt install git-lfs
+git lfs install
+git clone ???
+git lfs pull
+```

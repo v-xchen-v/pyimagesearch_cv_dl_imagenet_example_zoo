@@ -3,3 +3,6 @@ imutils
 scikit-learn
 argparse
 opencv_jupyter_ui
+torch
+keras
+ipykernel
